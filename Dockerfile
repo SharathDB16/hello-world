@@ -5,4 +5,4 @@ From tomcat:8-jre8
 MAINTAINER "valaxytech@gmail.com" 
 COPY ./webapp.war /usr/local/tomcat/webapps
 
-Hi, webhook has been triggered
+echo "Hi, webhook has been triggered"
